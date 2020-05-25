@@ -1,2 +1,1 @@
-mod generated_constants;
-use generated_constants::
+pub mod generated_constants;
